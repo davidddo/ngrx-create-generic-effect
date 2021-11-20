@@ -1,0 +1,32 @@
+{
+  "name": "ngrx-create-effect",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/davidddo/ngrx-create-generic-effect.git"
+  },
+  "bugs": {
+    "url": "https://github.com/davidddo/ngrx-create-generic-effect/issues"
+  },
+  "homepage": "https://github.com/davidddo/ngrx-create-generic-effect#readme",
+  "license": "MIT",
+  "peerDependencies": {
+    "@ngrx/effects": "^12.5.1",
+    "@ngrx/store": "^12.5.1",
+    "rxjs": "^7.4.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.4.4"
+  }
+}
