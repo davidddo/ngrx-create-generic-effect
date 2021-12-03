@@ -1,0 +1,22 @@
+{
+  "name": "ngrx-generic-effect",
+  "version": "0.0.1",
+  "author": "David Tomschitz",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/davidddo/ngrx-generic-effect.git"
+  },
+  "bugs": {
+    "url": "https://github.com/davidddo/ngrx-generic-effect/issues"
+  },
+  "homepage": "https://github.com/davidddo/ngrx-generic-effect",
+  "license": "MIT",
+  "peerDependencies": {
+    "@ngrx/effects": "^12.5.1",
+    "@ngrx/store": "^12.5.1",
+    "rxjs": "^7.4.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  }
+}
